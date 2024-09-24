@@ -1,7 +1,3 @@
-Here's a `README.md` file for your Breast Cancer Prediction project:
-
----
-
 # Breast Cancer Prediction Web App
 
 This project is a web application developed during my internship at **EcodeCamp**. It aims to predict whether breast cancer is benign or malignant based on various input features. The app is built using Python, Streamlit, and machine learning techniques, offering a user-friendly interface for real-time predictions.
