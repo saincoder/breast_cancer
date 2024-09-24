@@ -61,14 +61,6 @@ The dataset used in this project is the [Breast Cancer Wisconsin (Diagnostic) Da
 
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgements
 
 This project was developed during my internship at **EcodeCamp**. Special thanks to the mentors and the team for their guidance and support.
-
----
-
-You can modify the content according to your preferences and add this file to your project repository.
